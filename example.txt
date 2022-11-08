@@ -1,0 +1,2 @@
+https://mastodon.art/api/v1/instance
+https://vmst.io/api/v1/instance
